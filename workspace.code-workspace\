@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "..\\Downloads\\OrigamiImages\\images"
+		},
+		{
+			"name": "c49-project",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
